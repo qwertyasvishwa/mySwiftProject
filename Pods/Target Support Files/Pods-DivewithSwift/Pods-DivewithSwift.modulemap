@@ -1,0 +1,6 @@
+framework module Pods_DivewithSwift {
+  umbrella header "Pods-DivewithSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
